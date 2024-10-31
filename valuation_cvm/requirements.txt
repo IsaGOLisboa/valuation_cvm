@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+beautifulsoup4
+ipywidgets
+ipython
+python-docx
+tqdm
+XlsxWriter
